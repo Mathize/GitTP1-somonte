@@ -1,0 +1,17 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.pie{
+  background-color: white;
+  height: 100px;
+  margin-top: 40px;
+  font-size: 1em;
+  color: grey;
+}
+
+.pie p{
+  margin: 0 auto;
+  display: table;
+}
